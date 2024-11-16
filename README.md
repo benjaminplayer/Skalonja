@@ -1,2 +1,3 @@
-# Skalonja
-A website for a small event titled skalonja
+# Škalonja
+
+A template / demo website for an event titled Škalonja
